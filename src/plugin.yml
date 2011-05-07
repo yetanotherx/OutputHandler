@@ -1,0 +1,3 @@
+name: OutputHandler
+main: yetanotherx.bukkitplugin.OutputHandler.OutputHandler
+version: 1.0
